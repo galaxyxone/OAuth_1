@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Create a .env file in the project root (same directory as package.json) that contains the following:
 
 ```
-REACT_APP_AUTH0_DOMAIN=YOUR AUTH0 DOMAIN HERE
-REACT_APP_AUTH0_CLIENT_ID=YOUR AUTH0 CLIENT ID HERE
+REACT_APP_AUTH0_DOMAIN=dev-f664gi-n.us.auth0.com
+REACT_APP_AUTH0_CLIENT_ID=pJeeFpD9kQZ6TNiq7ZTJhYnsgrdoFX1C
 REACT_APP_AUTH0_CALLBACK_URL=http://localhost:3000/callback
 ```
 
