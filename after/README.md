@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Quick Start
+#This version is old and no longer in use by GalaxyX. Archive soon-
+
+## Quick Start
 
 1. Configure your React app in the Auth0 Dashboard as outlined in the course.
 
